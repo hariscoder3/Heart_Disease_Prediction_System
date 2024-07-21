@@ -1,0 +1,1 @@
+This is a heart disease prediction problem solution. This code uses the Support Vector Classifier(SVC) Machine Learning Model to Predict if person has heart disease or not. I develop this on only 100 entries of data, you can take more data from kaggle and so the accuracy will increase. Thanks for reading.
